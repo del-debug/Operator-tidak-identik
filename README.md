@@ -1,1 +1,1 @@
-# Operator-tidak-identik
+#operator tidak identik
